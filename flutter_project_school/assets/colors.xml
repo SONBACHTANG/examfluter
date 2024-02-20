@@ -1,0 +1,9 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="primary" >#6408A5</color>
+  <color name="text" >#000000</color>
+  <color name="border" >#B6B6B9</color>
+  <color name="hinText" >#8E8E92</color>
+</resources>
